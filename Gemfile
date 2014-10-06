@@ -38,3 +38,7 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# Add tw bootstrap support
+gem 'bootstrap-sass', '~> 3.2.0'
+# Autoprefixer gem, needed as well
+gem 'autoprefixer-rails'
